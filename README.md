@@ -109,6 +109,10 @@ Notations in photography and instructions of operating Canon 80D.
 
 ## 特定场景
 
+### 一般情况
+
+ISO不超过1600，不然噪点较多
+
 ### 合影
 
 建议使用三脚架。
